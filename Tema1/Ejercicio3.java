@@ -21,6 +21,6 @@ public class Ejercicio3 { // Clase principal
 		System.out.println("	Comer			Eat"); 
 		System.out.println("	Llorar			Cry"); 
 		System.out.println("	Reir			Laugh"); 
-		System.out.println("	Niña			Girl");  
+		System.out.println("	Niño			Boy");  
 	} 
 }
